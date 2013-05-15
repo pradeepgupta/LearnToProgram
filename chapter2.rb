@@ -19,7 +19,7 @@
   my_age_in_seconds = seconds_in_year * my_age_in_years
   puts "My age in seconds: #{my_age_in_seconds}"
 
-  #Dear author age
-    his_age_in_seconds = 1000000 * 1111
-    age_in_year = his_age_in_seconds / seconds_in_year
-    puts "My dear author age in year : #{age_in_year}"
+ #Dear author age
+   his_age_in_seconds = 1000000 * 1111
+   age_in_year = his_age_in_seconds / seconds_in_year
+   puts "My dear author age in year : #{age_in_year}"
