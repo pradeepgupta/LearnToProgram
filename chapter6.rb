@@ -1,7 +1,7 @@
 #Angry boss
-#  puts "Boss: What you wants?"
-#  answer = gets.chomp
-#  puts 'Boss: What do you mean.."#{answer}"?|? YOU ARE FIRED..'
+  puts "Boss: What you wants?"
+  answer = gets.chomp
+  puts "Boss: What do you mean..#{answer} ?|? YOU ARE FIRED.."
 
 #Table of contents
   line_width = 50
